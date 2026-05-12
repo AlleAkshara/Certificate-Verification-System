@@ -100,5 +100,5 @@ def certificates():
     certificates = blockchain.chain[1:]
     return render_template('certificates.html', certificates=certificates)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    app.run()
