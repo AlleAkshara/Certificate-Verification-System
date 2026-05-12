@@ -6,11 +6,12 @@ from datetime import datetime
 
 app = Flask(__name__)
 app.secret_key = 'supersecretkey'
-app.config['UPLOAD_FOLDER'] = 'uploads'
+app.config['UPLOAD_FOLDER'] = '/tmp'
+#app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['ALLOWED_EXTENSIONS'] = {'pdf', 'png', 'jpg', 'jpeg', 'doc', 'docx'}
 
 # Ensure upload directory exists
-os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
+#os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 blockchain = Blockchain()
 
