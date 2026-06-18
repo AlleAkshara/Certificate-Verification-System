@@ -26,7 +26,7 @@ By storing certificate data on an immutable ledger, the system ensures:
 - Forgery and tampering risks  
 - Manual, time-consuming verification processes  
 - High administrative costs  
-- Lost or damaged certificates requiring reissuance  
+- Lost or damaged certificates requiring reissuance 
 
 ---
 
@@ -45,7 +45,6 @@ Explore the live application here:
 🔗 https://certificate-verification-system-sigma.vercel.app/
 
 ---
-
 ##  Applications
 - Universities and colleges  
 - Corporate HR departments  
@@ -60,7 +59,7 @@ Explore the live application here:
 - AI-powered certificate validation  
 - Advanced privacy-preserving credential sharing  
 - Integration with global job portals and educational platforms  
-- Blockchain-based digital resumes   
+- Blockchain-based digital resumes  
 ---
 
 ##  License
