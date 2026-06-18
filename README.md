@@ -32,11 +32,11 @@ By storing certificate data on an immutable ledger, the system ensures:
 ---
 
 ##  Technology Stack
-Frontend: HTML, CSS
-Backend: Python, Flask
-Blockchain: Custom Blockchain Implementation
-Storage: JSON Ledger, Local File Storage
-Cryptography: SHA-256
+- Frontend: HTML, CSS
+- Backend: Python, Flask
+- Blockchain: Custom Blockchain Implementation
+- Storage: JSON Ledger, Local File Storage
+- Cryptography: SHA-256
 ---
 
 ## Screenshots
