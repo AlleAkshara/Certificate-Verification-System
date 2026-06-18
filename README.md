@@ -34,8 +34,8 @@ By storing certificate data on an immutable ledger, the system ensures:
 ##  Technology Stack
 - **Blockchain Platform**: Ethereum / Hyperledger  
 - **Smart Contracts**: Solidity, Truffle, Hardhat  
-- **Frontend**: React / Angular / Vue.js  
-- **Backend**: Node.js and  Python (Flask/Django)  
+- **Frontend**: React/ Vue.js  
+- **Backend**: Node.js and Python (Flask)  
 - **Storage**: IPFS for large files  
 - **Cryptography**: OpenSSL, Web3.js  
 
