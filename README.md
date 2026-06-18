@@ -39,27 +39,11 @@ By storing certificate data on an immutable ledger, the system ensures:
 - Cryptography: SHA-256
 ---
 
-## Screenshots
+## Live Demo
 
-### Dashboard – Blockchain Certificate Manager
-![Dashboard – Blockchain Certificate Manager]![project-1](https://github.com/user-attachments/assets/1de1158d-7171-4fad-bf0e-e12f92eb552b)
+Explore the live application here:
 
-
-### System Overview – Features & Workflow
-![System Overview – Features & Workflow]![project-2](https://github.com/user-attachments/assets/d6d72486-230d-446f-b368-04b7f2071a0d)
-
-
-### Upload Certificate – Metadata Form
-![Upload Certificate – Metadata Form]![project-3](https://github.com/user-attachments/assets/39c9ffeb-b3f2-4dc4-841a-227416761379)
-
-
-### Upload Certificate – File Submission
-![Upload Certificate – File Submission]![project-4]!(https://github.com/user-attachments/assets/b4402ece-614e-4bdb-a7f0-fe151bcb1d43)
-
-
-### Verify Certificate – Authentication Check
-![Verify Certificate – Authentication Check]![project-5](https://github.com/user-attachments/assets/99f5883a-1fda-49c5-9f80-a1efbaccaf73)
-
+🔗 https://certificate-verification-system-sigma.vercel.app/
 
 ---
 
