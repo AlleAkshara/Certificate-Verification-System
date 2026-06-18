@@ -1,7 +1,6 @@
 # Blockchain Certificate Manager
 
 A decentralized application for secure certificate storage and verification using blockchain technology.  
-Developed as a mini-project at **Sumathi Reddy Institute of Technology for Women**.
 
 ---
 
@@ -62,11 +61,6 @@ Explore the live application here:
 - Advanced privacy-preserving credential sharing  
 - Integration with global job portals and educational platforms  
 - Blockchain-based digital resumes   
----
-
-##  Acknowledgment
-Developed as part of a mini-project at **Sumathi Reddy Institute of Technology for Women**.
-
 ---
 
 ##  License
